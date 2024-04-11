@@ -70,7 +70,6 @@ with mp_hands.Hands(
     image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
     if results.multi_hand_landmarks:
       for hand_landmarks in results.multi_hand_landmarks:
-          #print(hand_landmarks.landmark[9].x,hand_landmarks.landmark[9].y)
           pydirectinput.moveTo(int((0.5 - hand_landmarks.landmark[9].x)* 1920),
                                int(hand_landmarks.landmark[9].y * 1080))
           if hand_landmarks.landmark[8].y > hand_landmarks.landmark[7].y and hand_landmarks.landmark[12].y > \
