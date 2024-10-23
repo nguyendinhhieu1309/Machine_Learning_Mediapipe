@@ -13,8 +13,7 @@ This project uses **Mediapipe** for hand detection and **pydirectinput** to cont
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Hand-Gesture-Controlled-Mouse.git
-   cd Hand-Gesture-Controlled-Mouse
+   git clone https://github.com/nguyendinhhieu1309/Machine_Learning_Mediapipe.git
    ```
 
 2. **Install the required libraries:**
