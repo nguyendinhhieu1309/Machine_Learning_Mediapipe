@@ -2,6 +2,7 @@
 # 🖐️ Hand Gesture Controlled Mouse Using Mediapipe
 
 This project uses **Mediapipe** for hand detection and **pydirectinput** to control the mouse on your computer. By tracking hand landmarks via your webcam, it can control mouse movements and simulate mouse clicks based on specific hand gestures.
+![image](https://github.com/user-attachments/assets/617da427-e7d2-4672-a4f1-4b23760ef7ea)
 
 ## 🛠️ Technologies and Libraries Used
 - ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
