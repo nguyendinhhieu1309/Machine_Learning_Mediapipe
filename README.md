@@ -56,4 +56,4 @@ Developed by **Nguyễn Đình Hiếu**
 
 ---
 
-_If you found this project helpful, please give it a ⭐ on [GitHub](https://github.com/yourusername/Hand-Gesture-Controlled-Mouse)!_
+_If you found this project helpful, please give it a ⭐ on [GitHub](https://github.com/nguyendinhhieu1309/Machine_Learning_Mediapipe.git)!_
